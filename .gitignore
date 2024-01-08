@@ -2,3 +2,5 @@
 /dist
 /.idea
 *.spec
+/captureBlocker/x64
+/captureBlocker/.vs
